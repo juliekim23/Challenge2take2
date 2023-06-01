@@ -28,5 +28,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 
 # Acknowledgements
-
-Images from Shutterstock
+Images from Shutterstock:
+https://www.shutterstock.com/explore/free-background-images
+Pikachu Avatar from Pixabay:
+https://pixabay.com/vectors/pokemon-pikachu-cute-character-5426712/ 
