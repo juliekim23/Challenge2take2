@@ -3,6 +3,7 @@ header{
 }
 
 body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
 
@@ -10,20 +11,55 @@ main{
 
 }
 
-h1{
+.header{
 
+}
+
+h1{
+    text-align: right;
 }
 
 footer{
+    text-align: left;
 
 }
 
-article{
+h3{
+    text-align: left;
+}
+.flex-container{
     display: flex;
     flex-wrap: wrap;
-}
-
-
-section{
+    padding: auto;
+    flex: 1 0 200px;
     
 }
+
+img{
+    width: 60%
+
+}
+section{
+    background-color: rgb(44, 12, 173);
+    text-align: left;
+
+}
+
+.digital-void{
+
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+}
+
+@media screen {
+    .flex-container {width: 100%;}
+}
+
+/* add hover feature
+
+
+/* Link header parts to section 
