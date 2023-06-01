@@ -1,5 +1,5 @@
 header{
-    justify-content: left;
+    text-align: left;
 
 }
 
@@ -8,26 +8,21 @@ body{
 
 }
 
-main{
-
-}
-
 li{
-    display: flex;
+    display:inline;
     padding: 20px;
     text-align: right;
     justify-content:flex-end;
 }
 
-
 footer{
     text-align: left;
-
 }
 
 h3{
     text-align: left;
 }
+
 .flex-container{
     display: flex;
     flex-wrap: wrap;
@@ -38,13 +33,11 @@ h3{
 
 .container {
     position: relative;
-    text-align: center;
+    text-align:;
   }
 
-
-
 #avatar{
-    float:left;
+    float:i;
     box-sizing: border-box;
     width: 10%;
     border: 3px;
@@ -69,13 +62,10 @@ section{
 
 }
 
-#digital-void{
-    width: 60%;
-}
 
 .container{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content:space-between;
 }
 
@@ -96,7 +86,7 @@ section{
     left: 16px;
     background-color: rgb(226, 191, 101);
 }
-/* add hover feature
 
-
-/* Link header parts to section 
+#digital-void{
+    width: 100%;
+}
